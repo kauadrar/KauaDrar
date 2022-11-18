@@ -1,11 +1,11 @@
-### HELLO HELLO! 👋 Eu sou Felipe Barbosa dos Santos!!!
+### HELLO HELLO! 👋 Eu sou Kauã dos Reis Akamine!!!
 ##
 
 
 
 - 🎒 Etec Adolpho Berezin
 - 🌱 Cursando 3º ano do Ensino Médio com Habilitação em Desenvolvimento de Sistemas
-- 😄 17 years
+- 😄 18 years
 
 
 
@@ -18,15 +18,15 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
-<img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
-         <img align="center" alt="Felipe-PHP" height="30" witdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;"
-     src="https://scontent.fssz2-1.fna.fbcdn.net/v/t39.30808-6/284727329_1347186919102539_6617088472520241693_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeENUrH_X0Vpf-m7d6o0qXMnwuyCaUWNKHPC7IJpRY0oc4hOOlQ-hRp5kLNOC5pz1Pwk0rJAQJfKrUrtL28fg4yr&_nc_ohc=tDIWEqrypgoAX-IZB58&_nc_ht=scontent.fssz2-1.fna&oh=00_AfBbh0Y0LFUEbLgsKWBZNsgleZ7Sfr3yHT6v4_LA3tU6jA&oe=637B529A"
+  <img align="center" alt="Kaua-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kaua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kaua-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Kaua-Csharp" height="30" width="40" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
+<img align="center" alt="Kaua-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+         <img align="center" alt="Kaua-PHP" height="30" witdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="right" alt="Kaua-pic" height="150" style="border-radius:50px;"
+     src="https://media-exp1.licdn.com/dms/image/D4D03AQGxoBa6WX8sIw/profile-displayphoto-shrink_800_800/0/1668792939565?e=1674086400&v=beta&t=Nq0wkRvez04CAUu6RF5Gq2tOtc57znEm3NsCsVQnjTA"
 </div>
 
 
