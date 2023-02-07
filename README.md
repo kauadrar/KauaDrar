@@ -1,4 +1,4 @@
-### HELLO HELLO! 👋 Eu sou Kauã dos Reis Akamine!!!
+### HELLO WORLD! 👋 Eu sou Kauã dos Reis Akamine!!!
 ##
 
 
