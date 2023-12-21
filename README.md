@@ -5,7 +5,7 @@
 
 - 🎒 Etec Adolpho Berezin
 - 🌱 Cursando 3º ano do Ensino Médio com Habilitação em Desenvolvimento de Sistemas
-- 😄 18 years
+- 😄 19 years
 
 
 
