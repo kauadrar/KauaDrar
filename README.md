@@ -41,6 +41,7 @@ Hi there, I'm Kauã dos Reis Akamine!
     <a href="https://github.com/search?q=user%3Akauadrar+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Akauadrar+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Akauadrar+language%kotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Akauadrar+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
