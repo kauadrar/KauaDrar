@@ -97,18 +97,19 @@ Hi there, I'm Kauã dos Reis Akamine!
 
 
 
-## GitHub Stats
+## 📈 GitHub Stats
 
+<p>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kauadrar&show_icons=true&theme=tokyonight" />
+&nbsp;
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=kauadrar&theme=tokyonight" />
+</p>
 
-|                                                                     Kauã's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Kauã's github stats](https://github-readme-stats.vercel.app/api?username=kauadrar&show_icons=true&theme=tokyonight)              | 
-| ![Kauã's GitHub Streak](https://streak-stats.demolab.com?user=kauadrar&theme=tokyonight)                    | 
-    
-
-|                                                                                                      Kauã's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=kauadrar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauadrar&langs_count=8&theme=tokyonight&layout=compact) |
+<p>
+<img alt="GitHub Stars" src="https://github-readme-stats.vercel.app/api?username=kauadrar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" />
+&nbsp;
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauadrar&langs_count=8&theme=tokyonight&layout=compact" />
+</p>
 
 ------
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
