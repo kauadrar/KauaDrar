@@ -103,11 +103,11 @@ Hi there, I'm Kauã dos Reis Akamine!
 <p>
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kauadrar&show_icons=true&theme=tokyonight" />
 &nbsp;
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=kauadrar&theme=tokyonight" />
+<img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=Nirzak&theme=tokyonight" />
 </p>
 
 <p>
-<img alt="GitHub Stars" src="https://github-readme-stats.vercel.app/api?username=kauadrar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" />
+<img alt="GitHub Stars" src="https://github-readme-stats.vercel.app/api?username=kauadrar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=tokyonight" />
 &nbsp;
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauadrar&langs_count=8&theme=tokyonight&layout=compact" />
 </p>
