@@ -17,7 +17,7 @@ Hi there, I'm Kauã dos Reis Akamine!
 -------------------------
 💻 Passionate about technology, especially software development
 🎓 Completed a high school technical course in Systems Development at Etec Adolpho Berezin
-📚 Studying for a Bachelor's degree in Software Engineering at UNINTER
+📖 Studying for a Bachelor's degree in Software Engineering at UNINTER
 📝 Learning Kotlin for mobile and backend development
 🚩 Working with React Native, Next.js and Ruby on Rails as a Fullstack Developer
 🔭 Developing Loovie's <a href="https://github.com/kauadrar/loovie-mobile">mobile app</a> and <a href="https://github.com/kauadrar/loovie-api">API</a>
@@ -43,7 +43,7 @@ Hi there, I'm Kauã dos Reis Akamine!
     <a href="https://github.com/search?q=user%3Akauadrar+language%kotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Akauadrar+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
 
-### 🧰 Frameworks and Libraries
+### 📚 Frameworks and Libraries
 
 <p>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
@@ -72,7 +72,7 @@ Hi there, I'm Kauã dos Reis Akamine!
     <a href="#"><img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"></a>
 </p>
 
-### 🗄️ Other tools
+### 🧰 Other tools
 
 <p>
     <a href="#"><img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"></a>
@@ -115,7 +115,7 @@ Hi there, I'm Kauã dos Reis Akamine!
 ------
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
 <br/>
-Last Edited On: 19/01/2024
+Last Edited On: 29/01/2024
 
 
 
